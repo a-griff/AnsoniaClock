@@ -6,11 +6,10 @@ ogg123
 cron
 
 INSTRUCTIONS:
-1) download, untar the AnsoniaClock.tgz file
-2) cd into the newly created AnsoniaClock directory
-3) make sure AnsoniaClock.sh is executable
-4) OPTIONAL: If you do not want to hear the constant 'ticks' comment out the last line.
-5) Copy the example crontab line into your crontab.  Adjust the path to where you put this directory.
+1) Download, untar the AnsoniaClock.tgz file, cd into the newly created AnsoniaClock directory.
+2) Make sure AnsoniaClock.sh is executable.
+3) Open the AnsoniaClock.sh file in a text editor and copy the example crontab line into your crontab.  Adjust the path to this directory.
+3a) OPTIONAL: If you do not want to hear the constant 'ticks' comment out the last line of AnsoniaClock.sh.
 
 You can start the script immediately with ./AnsoniaClock.sh
 -or-
